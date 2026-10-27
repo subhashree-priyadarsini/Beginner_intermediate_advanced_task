@@ -1,0 +1,7 @@
+Input Text,Predicted Sentiment,Confidence
+I absolutely love this product!,POSITIVE,0.9999
+This is the worst experience ever.,NEGATIVE,0.9998
+The movie was not bad.,POSITIVE,0.9987
+"The food was excellent, but the service was terrible.",NEGATIVE,0.9171
+The laptop works well and has a great battery.,POSITIVE,0.9996
+I am not happy with the customer service.,NEGATIVE,0.9998
